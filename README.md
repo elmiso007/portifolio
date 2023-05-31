@@ -1,6 +1,6 @@
-```
+# Portfólio 
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+Olá, Bem vindo ao meu portfólio.
 
 ![image](https://github.com/elmiso007/portifolio/blob/main/assets/TelaHome.png)
 
@@ -20,4 +20,3 @@ Para acessar o projeto clique no link a seguir https://portifolio-iota-sand.verc
 
 ### Linkedin: https://www.linkedin.com/in/emerramos/
 
-```
