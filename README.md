@@ -4,6 +4,8 @@
 
 ![image](https://github.com/elmiso007/portifolio/blob/main/assets/TelaHome.png)
 
+Para acessar o projeto clique no link a seguir https://portifolio-iota-sand.vercel.app/
+
 ## Ferramentas utilizadas:
 
 * HTML
